@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "54a37d3a21e81add",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4d124685b240cd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "460fcd4d8ebadb5e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b7f3890c7817345a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8596f8fead6132ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27694add6db21bb0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "0bd55366b4c0c3f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "040e25505f92496b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "803ff85cf22bb5d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0e820a86e712f90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f9dcf4005a8d066",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "sources/chap3-5-ble.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "chap3-5-ble 의 백링크"
+            }
+          },
+          {
+            "id": "0f7d5654f44eb5f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "sources/chap3-5-ble.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "chap3-5-ble 의 나가는 링크"
+            }
+          },
+          {
+            "id": "b0e61939c8bc5c7b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "f8010d6981b9e12c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "fcd233e406a5b0f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "sources/chap3-5-ble.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "chap3-5-ble 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "460fcd4d8ebadb5e",
+  "lastOpenFiles": [
+    "무제.base",
+    "index.md",
+    "채널 호핑.md",
+    "무제.canvas",
+    "2026-04-19.md",
+    "originals/chap5-sensor-server-mobile.md",
+    "originals/chap4-wifi.md",
+    "originals/chap3-5-ble.md",
+    "originals/chap3-1-classic-bt.md",
+    "originals/chap2-wired-comm.md",
+    "originals/chap1-iot-network.md",
+    "entities/Arduino.md",
+    "entities/ESP32.md",
+    "entities/ESP8266.md",
+    "entities/Node.js.md",
+    "entities/HM-10.md",
+    "concepts/Ubiquitous.md",
+    "lint-report.md",
+    "concepts/IoTNetworkCourse.md",
+    "entities/HC-06.md",
+    "concepts/WiFi.md",
+    "concepts/WebSocket.md",
+    "concepts/SerialCommunication.md",
+    "concepts/MQTT.md",
+    "concepts/JSON.md",
+    "concepts/iBeacon.md",
+    "concepts/GATT.md",
+    "무제 1.canvas",
+    "syntheses",
+    "concepts",
+    "entities",
+    "sources"
+  ]
+}

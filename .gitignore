@@ -1,0 +1,10 @@
+.agents/
+.backup/
+graph/
+raw/
+wiki/log.md
+
+## Etc
+*.bak
+*.pyc
+convert_ppy.py
